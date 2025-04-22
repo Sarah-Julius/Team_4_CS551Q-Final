@@ -12,4 +12,4 @@ already too big.
 
 The sqlite3 is currently an issue and we are attempting to get it to interact with PostgreSQL....however, Codio 
 is having a lot of issues with that right now. We may just have to deploy with our app using PostgreSQL
-via one team member's VSCode and ignore Codio accept for turning in the assignment. 
+via one team member's VSCode and ignore Codio except for turning in the assignment. 
